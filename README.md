@@ -1,5 +1,6 @@
-Culinary Compass: AI-Powered Food Navigator
-Core Features
+# Culinary Compass: AI-Powered Food Navigator
+
+### Core Features
 
 ## 1. Smart Recipe Finder
 
